@@ -13,11 +13,11 @@ import timber.log.Timber
 class RemoteDataSource {
 
 
-    // http://api.openweathermap.org/data/2.5/weather?q=Jakarta&appid=c64f7fee1bd8b035ed1fcd00145fe037&units=Metric
+
 
     companion object {
         private var city = "Jakarta"
-        private var apiKey = "c64f7fee1bd8b035ed1fcd00145fe037"
+        private var apiKey = ""
         private var units = "Metric"
 
         @Volatile
