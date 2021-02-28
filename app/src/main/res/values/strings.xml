@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">MyWeather</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="createdBy">Created by</string>
+    <string name="minTemperature">Min Temp : %1$s℃ </string>
+    <string name="lastUpdate">Last Update at : %1$s  </string>
+    <string name="maxTemperature">Max Temp : %1$s℃ </string>
+    <string name="text_placeholder"> - </string>
+    <string name="temperature">%1$s℃</string>
+    <string name="contentDescSunset">Sunset</string>
+    <string name="contentDescSunrise">Sunrise</string>
+    <string name="contentDescWind">Wind</string>
+    <string name="contentDescPressure">Pressure</string>
+    <string name="contentDescHumidity">Humidity</string>
+    <string name="contentDescUpdateBy">Update By</string>
 </resources>
